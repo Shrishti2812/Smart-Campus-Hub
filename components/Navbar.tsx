@@ -1,4 +1,4 @@
-import { useState } from "react";
+ 
      import { FaGraduationCap } from "react-icons/fa"
      import { FaBell } from "react-icons/fa"
      import { user } from "../mockData";
