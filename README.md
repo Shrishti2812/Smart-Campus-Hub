@@ -41,8 +41,5 @@ Smart Campus Hub aims to simplify student life by providing a centralized platfo
 
 ## Live Demo
 
-(Add your Vercel link here)
-
-## Screenshots
-
-(Add screenshot here)
+ https://smart-campus-hub-tau.vercel.app/ 
+ 
